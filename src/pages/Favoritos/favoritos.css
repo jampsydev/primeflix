@@ -35,10 +35,11 @@
 
 }
 .meus-filmes div a{
+    margin-left: 15px;
     text-decoration: none;
     color: black;
     border-radius: 8px;
-    margin-right: 14px;
+    margin-right: 10px;
 }
 
 
